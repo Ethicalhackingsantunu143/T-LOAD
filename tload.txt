@@ -2,6 +2,6 @@ echo -e "\e[96m"
 echo " "
 date
 echo " "
-echo "                      "⚡ 127.0.0.1 ⚡
+echo "                      "💣💥 127.0.0.1 💥💣
 echo " "
 echo -e "\e[32m"
